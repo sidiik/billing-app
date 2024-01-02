@@ -1,0 +1,9 @@
+
+Bill Breakdown
+========================================
+Bill name:   sidiq
+coke:                     $1.00
+buskuits:                 $2.98
+candy:                    $2.00
+Tip                       $3.00
+Total:                    $8.98
